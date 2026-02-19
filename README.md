@@ -13,7 +13,7 @@ Completed an IT Technical Course at Colégio Sinodal Progresso and developed my 
 
 Currently exploring advanced topics in programming to keep improving my skills.  
 
-Check out my projects [here](https://github.com/Zanatta97?tab=repositories)!  
+Check out my projects [here](https://github.com/Zanatta97/Portfolio)!  
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/samuelzanatta/) or via email at sa.zanatta@hotmail.com.  
 
@@ -32,6 +32,6 @@ Concluí um curso técnico de Tecnologia da Informação no Colégio Sinodal Pro
 
 Atualmente explorando tópicos avançados em programação para seguir aprimorando minhas habilidades.  
 
-Confira meus projetos [aqui](https://github.com/Zanatta97?tab=repositories)!  
+Confira meus projetos [aqui](https://github.com/Zanatta97/Portfolio)!  
 
 Entre em contato comigo no [LinkedIn](https://www.linkedin.com/in/samuelzanatta/) ou pelo e-mail sa.zanatta@hotmail.com.  
